@@ -1,0 +1,3 @@
+
+#this is for migrating git credentials from win to wsl
+git config --global credential.helper "/mnt/c/Program\ Files/Git/mingw64/libexec/git-core/git-credential-manager.exe"
